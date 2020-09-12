@@ -1,0 +1,71 @@
+body{
+ background-image: url('../img/breakfast-690128_1920.jpg');
+ background-color: rgba(255,255,255,0.8);
+ background-blend-mode: lighten;
+
+}
+
+header{
+  background-image: url('../img/breakfast-690128_1920.jpg');
+  height: 130px;
+  position: fixed;
+top: 0px;
+left: 0px;
+width:100%;
+z-index: 10;
+}
+
+header h1{
+  font-size: 30px;
+  position:relative;
+  top:0px;
+  left: 10px;
+}
+
+header p{
+  font-size: 15px;
+  position: relative;
+  top:0px;
+  left: 10px;
+}
+
+header li{
+  font-size: 15px;
+  float: right;
+  position: relative;
+  bottom: 100px;
+  right: 10px;
+}
+
+.clear{
+  clear:both;
+}
+
+.first{
+  background-color: tomato;
+  margin: 150px 0 0 0;
+  background-size: cover;
+  text-align: left;
+}
+
+.base a{
+  background-color: gray;
+  float:left;
+  width: 19%;
+  border: solid 2px tomato;
+  height: 60px;
+  text-align: center;
+}
+.first span{
+  font-size: 15px;
+}
+
+.menu h4{
+  background-color: rgba(255, 0, 0, 0.5);
+  height: 120px;
+}
+
+.menu img,.menu p{
+  width:20%;
+  display: inline-block;
+}
