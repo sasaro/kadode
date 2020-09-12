@@ -1,12 +1,12 @@
 body{
- background-image: url('https://sasaro.github.io/kadode/breakfast-690128_1920.jpg');
+ background-image: url('https://github.com/sasaro/kadode/blob/master/breakfast-690128_1920.jpg?raw=true');
  background-color: rgba(255,255,255,0.8);
  background-blend-mode: lighten;
 
 }
 
 header{
-  background-image: url('https://sasaro.github.io/kadode/breakfast-690128_1920.jpg');
+  background-image: url('https://github.com/sasaro/kadode/blob/master/breakfast-690128_1920.jpg?raw=true');
   height: 130px;
   position: fixed;
 top: 0px;
